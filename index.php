@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="#"><strong><img src="uploads/20230706_64a67ece51d88.png" alt=""></strong></a>|<a href="https://afergus.live">Agustinus Pardamean Lumban Tobing</a></h1>
+						<h1><a href="#"><strong>Miles Galery</strong></a><br><a href="https://afergus.live"> by Lgarin Store</a></h1>
 						<nav>
 							<ul>
 								<li><a href="#footer" class="icon solid fa-info-circle">About</a></li>
@@ -62,18 +62,15 @@
 						<div class="inner split">
 							<div>
 								<section>
-									<h2>JUDUL WEBNYA</h2>
-									<p>INI WEB APA.</p>
+									<h2><img src="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png" alt="" style="width: 20rem;"></h2>
+									<p>This is my total best artwork i created yet. Enjoy!.</p>
 								</section>
 								<section>
-									<h2>Follow me on ...</h2>
+									<h2>Also check my social media ...</h2>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-										<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+                                        <li><a href="https://www.youtube.com/@Milesdash25" class="icon brands fa-youtube"><span class="label">YouTube</span></a></li>
+										<li><a href="https://twitter.com/i/flow/login?redirect_after_login=%2FFadastudio25" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.instagram.com/milesdash25/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									</ul>
 								</section>
 								<h3 class="">
