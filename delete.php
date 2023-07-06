@@ -1,9 +1,9 @@
 <?php
 // Koneksi ke database
-$host = 'localhost';
-$username = 'username';
-$password = 'password';
-$database = 'nama_database';
+$host = '103.219.251.244';
+$username = 'lahorasm_root';
+$password = '@Lgarin211';
+$database = 'lahorasm_root';
 $conn = mysqli_connect($host, $username, $password, $database);
 
 // Memeriksa koneksi

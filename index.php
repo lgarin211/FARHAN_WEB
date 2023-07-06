@@ -29,10 +29,10 @@
 					<div id="main">
                     <?php
                     // Koneksi ke database
-                    $host = 'localhost';
-                    $username = 'root';
-                    $password = '';
-                    $database = 'N_F_foto';
+                    $host = '103.219.251.244';
+                    $username = 'lahorasm_root';
+                    $password = '@Lgarin211';
+                    $database = 'lahorasm_root';
                     $conn = mysqli_connect($host, $username, $password, $database);
 
                     // Memeriksa koneksi
