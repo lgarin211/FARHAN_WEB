@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Farhan By Lgarin211</title>
+		<title>Miles Galery By Lgarin211</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="#"><strong>Judul Websitenya</strong></a>|<a href="https://afergus.live">Agustinus Pardamean Lumban Tobing</a></h1>
+						<h1><a href="#"><strong><img src="uploads/20230706_64a67ece51d88.png" alt=""></strong></a>|<a href="https://afergus.live">Agustinus Pardamean Lumban Tobing</a></h1>
 						<nav>
 							<ul>
 								<li><a href="#footer" class="icon solid fa-info-circle">About</a></li>
