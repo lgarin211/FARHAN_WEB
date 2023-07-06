@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
         <!-- fav icon -->
-        <link rel="shortcut icon" href="https://lgarin211.github.io/assets/img/portfolio/pp%20(2).jpg" type="image/x-icon">
+        <link rel="shortcut icon" href="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png" type="image/x-icon">
 	</head>
 	<body class="is-preload">
 
