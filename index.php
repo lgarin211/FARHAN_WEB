@@ -14,7 +14,7 @@
 	<!-- Open Graph Meta Tags -->
 	<meta property="og:title" content="lgarin211 - Miles Galery">
 	<meta property="og:description" content="This is my total best artwork i created yet. Enjoy!.">
-	<meta property="og:image" content="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png">
+	<meta property="og:image" content="https://milesdash.afergus.live/uploads/20230707_64a775aa1b6ab.png">
 	<meta property="og:url" content="https://afergus.live">
 	<meta property="og:type" content="website">
 
@@ -22,7 +22,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="lgarin211 - Miles Galery">
 	<meta name="twitter:description" content="This is my total best artwork i created yet. Enjoy!.">
-	<meta name="twitter:image" content="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png">
+	<meta name="twitter:image" content="https://milesdash.afergus.live/uploads/20230707_64a775aa1b6ab.png">
 	<meta name="twitter:creator" content="@lgarin211">
 
 	<!-- Other Meta Tags -->
@@ -39,7 +39,7 @@
 
 
 	<!-- fav icon -->
-	<link rel="shortcut icon" href="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png" type="image/x-icon">
+	<link rel="shortcut icon" href="https://milesdash.afergus.live/uploads/20230707_64a775aa1b6ab.png" type="image/x-icon">
 </head>
 
 <body class="is-preload">
@@ -94,7 +94,7 @@
 			<div class="inner split">
 				<div>
 					<section>
-						<h2><img src="https://afergus.live/NEW/uploads/20230706_64a67ece51d88.png" alt="" style="width: 20rem;"></h2>
+						<h2><img src="uploads/20230707_64a775d62a942.png" alt="" style="width: 20rem;"></h2>
 						<p>This is my total best artwork i created yet. Enjoy!.</p>
 					</section>
 					<section>
